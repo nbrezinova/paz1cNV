@@ -1,3 +1,3 @@
 # Autori
 
-- vildbald
+- vladyslava-koliesnikova, 549027@upjs.sk, Vladka
