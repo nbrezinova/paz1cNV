@@ -1,2 +1,1 @@
-Toto je zoznam autorou
-hj
+Toto je zoznam autorov
