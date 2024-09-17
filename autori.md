@@ -1,4 +1,4 @@
 # Autori
 
 - vildbald
-- nbrezinova
+- nbrezinova, Naty
