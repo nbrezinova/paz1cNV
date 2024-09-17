@@ -1,4 +1,4 @@
 # Autori
 
 - vladyslava-koliesnikova, 549027@upjs.sk, Vladka
-- nbrezinova, Naty
+- nbrezinova, 5395380@upjs.sk, Naty
